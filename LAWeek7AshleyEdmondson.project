@@ -34,6 +34,14 @@
             "customerDelete",
             "customerDelete.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "customerAdd",
+            "customerAdd.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerDelete",
+      "firstform": "customerAdd",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
